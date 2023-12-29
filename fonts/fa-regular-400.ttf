@@ -51,7 +51,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             /* <![CDATA[ */
             var rcewpp = {
                 "ajax_url":"http://mid-af-technologies-uefn-division.local/wp-admin/admin-ajax.php",
-                "nonce": "a99597c527",
+                "nonce": "c47aa1fac7",
                 "home_url": "http://mid-af-technologies-uefn-division.local/",
                 "settings_icon": 'http://mid-af-technologies-uefn-division.local/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
                 "settings_hover_icon": 'http://mid-af-technologies-uefn-division.local/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
@@ -97,9 +97,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       class="search-form"
 >
     <div class="relative">
-        <label class="flex items-center flex-grow mb-0" for="search-form-658de5996f5f9">
+        <label class="flex items-center flex-grow mb-0" for="search-form-658ea7595ca98">
             <span class="screen-reader-text">Search for:</span>
-            <input type="search" id="search-form-658de5996f5f9"
+            <input type="search" id="search-form-658ea7595ca98"
                    placeholder="Type &amp; Hint Enter"
                    value="" name="s"
                    class="search-input"
@@ -191,9 +191,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       class="search-form"
 >
     <div class="relative">
-        <label class="flex items-center flex-grow mb-0" for="search-form-658de59970add">
+        <label class="flex items-center flex-grow mb-0" for="search-form-658ea7595e22d">
             <span class="screen-reader-text">Search for:</span>
-            <input type="search" id="search-form-658de59970add"
+            <input type="search" id="search-form-658ea7595e22d"
                    placeholder="Search"
                    value="" name="s"
                    class="search-input"
